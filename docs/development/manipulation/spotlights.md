@@ -11,6 +11,47 @@ Member status:
 - 🔧: Bug fixing
 - 🤝: Participation in other subteam
 
+## 2026-04-07
+
+| Name     | Status     |
+| -------- | ------     |
+| Domínguez|  💻    |
+| Ale G.   |  🤝   | 
+| Fernando |  💻        |
+| Luis     |  💻       |
+| Emil     |  💻     |
+| Paola    |       |
+| Hector   |  💻     |
+| Efrain   |  💻     |
+
+**Done:**
+
+| Owners | Task |
+|------|------|
+| Emil 💻| |
+| Fernando 💻 |
+| Efrain 💻| |
+| Luis 💻|  |
+| Dominguez 💻| Get the grasp_detector information from the custom gripper for grasp feedback |
+| Dominguez 💻| Pour Refactor for object already grasped |
+| Dominguez 💻| Improve picks |
+| Dominguez 💻| Workflow to ensure xarm_ros2 integrity |
+| Dominguez 💻| IKFast plugin IK analítico para xArm6 | 
+
+**In Progress:**
+
+| Owners | Task |
+|------|------|
+| Dominguez 💻| Dense cloud data base integration with the grasp detector |
+| Dominguez 💻| Manipulation optimization |
+| Dominguez 💻| Testing Pick&Place Challenge |
+| Dominguez 💻| Apply grasp feedback logic in manipulation pipeline |
+| Luis 💻|  |
+| Emil 💻| |
+| Hector 💻|  |
+| Efrain 💻| |
+| Fernando 💻 | |
+
 ## 2026-03-24
 
 | Name     | Status     |
@@ -29,7 +70,7 @@ Member status:
 | Owners | Task |
 |------|------|
 | Emil 💻| Throw trash and feature to drop objects on top of any other known object using its point cloud |
-| Fernando 💻 | Integration of “go to hand” into the task manager with vision hand detection and transforms between ZED and robot frames (working in HRIC task).
+| Fernando 💻 | Integration of “go to hand” into the task manager with vision hand detection and transforms between ZED and robot frames (working in HRIC task). |
 | Efrain 💻| Advanced in PR requirements and changes |
 | Luis 💻| Add dishwasher placement. |
 | Dominguez 💻| Right implementation of vamp with boxes published |
