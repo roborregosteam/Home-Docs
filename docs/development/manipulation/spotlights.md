@@ -28,7 +28,7 @@ Member status:
 
 | Owners | Task |
 |------|------|
-| Fernando 💻 |
+
 | Efrain 💻| SImulation with MoveIt Implementation|
 | Luis 💻|  |
 | Dominguez 💻| Get the grasp_detector information from the custom gripper for grasp feedback |
@@ -45,10 +45,8 @@ Member status:
 | Dominguez 💻| Manipulation optimization |
 | Dominguez 💻| Testing Pick&Place Challenge |
 | Dominguez 💻| Apply grasp feedback logic in manipulation pipeline |
-| Luis 💻|  |
-| Hector 💻|  |
 | Efrain 💻| Connecting the Mujoco Simulation with the rest of nodes |
-| Fernando 💻 | |
+ |
 
 ## 2026-03-24
 
