@@ -2,6 +2,21 @@
 
 This page is a collection of weekly spotlights that highlight the progress of the Mechanics team. Each spotlight is a summary of the work done by the team in a week.
 
+## 2026-04-07
+
+**Done:**
+
+- First physical prototype of the new omnibase.
+- Wheels for gripper fingerlids design.
+- Change gripper fingerlids silicones.
+
+**In Progress:**
+
+- DC motor gripper fixes.
+- Box for storing new batteries.
+- Drawer for storing new batteries in omnibase.
+- Finish aluminum structure for the new omnibase.
+
 ## 2026-03-24
 
 **Done:**
