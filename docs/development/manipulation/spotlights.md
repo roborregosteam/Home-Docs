@@ -28,7 +28,6 @@ Member status:
 
 | Owners | Task |
 |------|------|
-| Emil 💻| |
 | Fernando 💻 |
 | Efrain 💻| |
 | Luis 💻|  |
@@ -47,7 +46,6 @@ Member status:
 | Dominguez 💻| Testing Pick&Place Challenge |
 | Dominguez 💻| Apply grasp feedback logic in manipulation pipeline |
 | Luis 💻|  |
-| Emil 💻| |
 | Hector 💻|  |
 | Efrain 💻| |
 | Fernando 💻 | |
